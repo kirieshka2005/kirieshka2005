@@ -1,6 +1,6 @@
 <div align="center">
 
-![Deep Zoom](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![Mandelbrot Zoom](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
 </div>
 # Hi, I'm Kirill 👋
