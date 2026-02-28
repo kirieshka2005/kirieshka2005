@@ -1,4 +1,4 @@
-# Hi, I'm Kirill Tsyplyaev 👋
+# Hi, I'm Kirill 👋
 
 > Data-focused developer building practical ML solutions  
 > 🎓 Business Informatics @ NUST MISiS | Class of 2027
@@ -7,34 +7,54 @@
 
 ## 👨‍💻 About Me
 
-I develop data pipelines and machine learning models with a focus on interpretability and real-world impact. My work combines solid engineering practices with statistical rigor — from data cleaning to model deployment.
+I'm studying machine learning and data analysis. I'm genuinely interested in how data works and how models learn from it.
 
-**Currently focused on:**
-- Feature engineering & model validation
-- End-to-end ML workflows (pandas → sklearn → production)
-- Clean, maintainable Python code
+That's it — just learning, experimenting, and building my skills step by step.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ IDE & Tools
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Data & ML**
-![pandas](https://img.shields.io/badge/pandas-2.0+-150458?logo=pandas&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy&logoColor=white&style=flat)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![XGBoost](https://img.shields.io/badge/XGBoost-1.7+-FF8800?logo=xgboost&logoColor=white&style=flat)
+---
 
-**Visualization & Tools**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557C?logo=python&logoColor=white&style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-5.18+-3F4F75?logo=plotly&logoColor=white&style=flat)
-![Yandex DataLens](https://img.shields.io/badge/Yandex.DataLens-Analytics-FFCC00?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
+## 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+## 📊 Data Analysis & ML
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF8800?style=for-the-badge&logo=xgboost&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📈 Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Yandex DataLens](https://img.shields.io/badge/Yandex.DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
+
+---
+
+## 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -50,22 +70,8 @@ I develop data pipelines and machine learning models with a focus on interpretab
 
 ## 📬 Connect
 
-<p align="left">
-  <a href="https://t.me/Vavaloh" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@Vavaloh-2CA5E0?logo=telegram&logoColor=white&style=flat" alt="Telegram">
-  </a>
-  <a href="mailto:m2304543@edu.misis.ru">
-    <img src="https://img.shields.io/badge/Email-m2304543@edu.misis.ru-D14836?logo=gmail&logoColor=white&style=flat" alt="Email">
-  </a>
-</p>
-
----
-
-## 🧠 Beyond Code
-
-![Math](https://img.shields.io/badge/Mathematical_Analysis-Zorich-9CF?style=flat)
-![Number Theory](https://img.shields.io/badge/Number_Theory-Research-FF69B4?style=flat)
-![Clean Code](https://img.shields.io/badge/Clean_Architecture-Principles-00CED1?style=flat)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vavaloh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m2304543@edu.misis.ru)
 
 ---
 
