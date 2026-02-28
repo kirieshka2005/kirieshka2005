@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kirill%20Tsyplyaev&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20&%20ML&descAlignY=51&descAlign=20)
 # Hi, I'm Kirill 👋
 
 > Data-focused developer building practical ML solutions  
