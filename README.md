@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/EyASgyJCDfEAAAAC/hello-world-animation.gif" width="100%" />
+<img src="https://media1.tenor.com/m/EyASgyJCDfEAAAAC/hello-world-animation.gif" width="80%" />
 # Hi, I'm Kirill 👋
 
 > Data-focused developer building practical ML solutions  
