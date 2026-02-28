@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/26BcO2UVzH8vN6OQU/giphy.gif" width="100%" />
-
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
 # Hi, I'm Kirill 👋
 
 > Data-focused developer building practical ML solutions  
