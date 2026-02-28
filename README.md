@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mandelbrot Zoom](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+![Julia Set](https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif)
 
 </div>
 # Hi, I'm Kirill 👋
